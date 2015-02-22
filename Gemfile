@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 gem 'haml'
 gem 'haml-rails'
+gem 'bootstrap-sass', '~> 3.3.3'
+gem 'sprockets'
 
 gem 'rails', '4.2.0'
 gem 'pg'
